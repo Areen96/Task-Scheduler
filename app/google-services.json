@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "696588174101",
+    "firebase_url": "https://taskscheduler-64108.firebaseio.com",
+    "project_id": "taskscheduler-64108",
+    "storage_bucket": "taskscheduler-64108.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:696588174101:android:421bb317e9198c26",
+        "android_client_info": {
+          "package_name": "com.asa.taskscheduler"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "696588174101-hs6uvokijpeaptgsf5tha5jnmqhenam1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.asa.taskscheduler",
+            "certificate_hash": "6a579568397ffd3d4b3dbeca64bdee917257b5a4"
+          }
+        },
+        {
+          "client_id": "696588174101-4sj7tqfs97pbp9umlq6bdqf83m893gac.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB5UKzpgLYXqKVlc41hb7kWpzWTL0WPNYU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "696588174101-4sj7tqfs97pbp9umlq6bdqf83m893gac.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
